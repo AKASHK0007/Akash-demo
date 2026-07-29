@@ -20,5 +20,10 @@ This project involves an Exploratory Data Analysis (EDA) of Diwali sales data to
 ## Business Recommendation
 Based on the data, future marketing campaigns and inventory stocking should heavily target **unmarried females aged 26-35 working in the IT, Healthcare, and Aviation sectors**. Geographical ad spend should be prioritized in Uttar Pradesh, Maharashtra, and Karnataka, with a focus on promoting Food, Apparel, and Electronics.
 
+## Interactive Dashboard
+To provide a clear, high-level overview of the sales data and demographics, an interactive dashboard was built using Power BI.
+
+![Diwali Sales Dashboard](dashboard_screenshot.jpg)
+
 ## Author
 Akash Kumar Sahoo
